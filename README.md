@@ -1,3 +1,6 @@
-# Projects
+# Catalog of Work
 
-This is my final project on Liberia
+
+
+## Responses to Readings
+
