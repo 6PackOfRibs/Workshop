@@ -4,7 +4,9 @@
 
 ## Responses to Readings
 
-1. [I'm an inline-style link](https://google.com)
+1. [Blumenstock question](https://wicked-problems.github.io/workshop/blumenstock) (Jan. 28)
+
+2. [Blumenstock response](https://github.com/6PackOfRibs/Workshop/blob/master/blumenstock.md) (Jan. 30, revised)
 
 ## Projects
 
