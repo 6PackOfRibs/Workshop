@@ -1,1 +1,2 @@
-Hans Rosling had an example where for one country, there was great economic progress without also helping the people's quality of life, whereas
+## Response
+Hans Rosling had an example where for one country, there was great economic progress without also helping the people's quality of life, whereas there was another country who started making a lot of economic progress following social progress. Rosling's point is that we tend to focus far too much on the economy and not enough on the people, when both are necessary for growth. His point with the example is that focusing on social change has a far greater effect than we tend to give it credit for.
