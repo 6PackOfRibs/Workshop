@@ -21,7 +21,7 @@ Significance of those harms
 Inherent nature of the problem - Selected LMIC or Region - Dimension of Human Development
 2. Literature Review
 
-**Assignment 1. Annotated Bibliography**
+## Assignment 1. Annotated Bibliography
 
 James Yao
 
