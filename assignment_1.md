@@ -1,4 +1,4 @@
-**Assignment 1. The Effect of Mobility on the Spread of Disease in Namibia**
+**Assignment 1. Modelling Mobility on the Spread of Disease in Namibia**
 
 Jimmy Yao
 
