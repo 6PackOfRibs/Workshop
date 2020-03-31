@@ -1,4 +1,4 @@
-**Response: Nieves et al.**
+## Response: Nieves et al.
 O3/31/2020
 
 Nieves et al. use the random forest machine learning method to predict what value globally?  Describe in detail how random forest works.  What is a dasymetric population allocation? Which geospatial covariates proved to be the most important when predicting global values of where humans reside?
