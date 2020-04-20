@@ -34,7 +34,7 @@ A study done by Kraemer (2019) used both the gravity model and radiation model, 
 
 ![](images/Screen%20Shot%202020-04-19%20at%209.27.23%20PM.png)
 
-![image-20200419213355988](/Users/jamesyao/Library/Application Support/typora-user-images/image-20200419213355988.png)
+![](images/Screen%20Shot%202020-04-19%20at%209.32.52%20PM.png)
 
 In each model, T<sub>i,j</sub> represents the total number of individuals moving from district i to district j; N<sub>j</sub><sup>alpha</sup> is the population size at the origin; N<sub>j</sub><sup>beta</sup> is the population size at the destination; d<sub>i,j</sub><sup>Y</sup> is the distance between them; and s<sub>i,j</sub> is the total population in the radius between i and j.
 
