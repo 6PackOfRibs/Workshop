@@ -26,7 +26,7 @@ One method I found significant was the impedance model (Sallah, 2017). The imped
 
 The probability for a person in location i to travel to location j is given by
 
-![image-20200419212609896](/Users/jamesyao/Library/Application Support/typora-user-images/image-20200419212609896.png)
+![](images/Screen%20Shot%202020-04-19%20at%209.24.59%20PM.png)
 
 When compared to the gravity and radiation models, the impedance model outperforms both when tested on simulated data. The gravity model estimates the number of trips between two places by using the population sizes and the distance between them. The issue with the gravity model is that it requires parameter tuning and is difficult to implement without reference data. The radiation model estimates the probability of commuting from one place to another and likely patterns of commuting. While parameter-free, this model assumes mobility to depend on population density, making it inherently biased. The impedance model contributes to the central research question because it further describes the spread of disease in regards to human mobility.
 
