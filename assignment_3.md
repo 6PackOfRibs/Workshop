@@ -32,7 +32,7 @@ When compared to the gravity and radiation models, the impedance model outperfor
 
 A study done by Kraemer (2019) used both the gravity model and radiation model, as well as an adjacency network to create an invasion model and transmission model. The formulas for the gravity model and radiation model respectively are
 
-![image-20200419213156211](/Users/jamesyao/Library/Application Support/typora-user-images/image-20200419213156211.png)
+![](images/Screen%20Shot%202020-04-19%20at%209.27.23%20PM.png)
 
 ![image-20200419213355988](/Users/jamesyao/Library/Application Support/typora-user-images/image-20200419213355988.png)
 
