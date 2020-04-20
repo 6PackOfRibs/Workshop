@@ -42,7 +42,7 @@ The adjacency network is one where movements are assumed to proceed along edges 
 
 The invasion model estimates the probability p<sub>i</sub>(t) that one or more cases will be identified in previously disease-free district i at time t (with presence or absence of new cases indicated by Y<sub>i</sub>(t)), as a function of the number of cases C<sub>-i</sub>(t − 1) in all other districts in the previous time point (two weeks in their analysis), the product of corresponding values of the mobility covariates x<sub>j,−i</sub> for each covariate j, regression coefficient b<sub>j</sub> and a fixed intercept term c. This is given by the logistic regression model:
 
-![image-20200419220627223](/Users/jamesyao/Library/Application Support/typora-user-images/image-20200419220627223.png)
+![](images/Screen%20Shot%202020-04-19%20at%2010.06.12%20PM.png)
 
 For the transmission model, I<sub>t,i</sub> is the number of infectious individuals and S<sub>t-1,i</sub> is the number of susceptible individuals at time t in district i. N<sub>i</sub> is the population of district i and Beta<sub>t,i</sub> is the covariate-driven mobility rate characterized by a linear combination of mobility metrics. alpha<sub>i</sub> is an approximation of the contact rate of the population in district i and a parameter to account for the continuous process.
 
