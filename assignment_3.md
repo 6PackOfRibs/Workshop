@@ -22,7 +22,7 @@ Mathematical models are a given when researching the effect of human mobility on
 
 One method I found significant was the impedance model (Sallah, 2017). The impedance model is a parameter-free model adapted from Ohm's law of electricity. Using the formula P = I * R, Mobility potential is calculated by multiplying distance (resistance) by the number of trips per day (current). With alpha being the probability of human mobility and d being distance, the number of trips flow from i to j can be formulated as
 
-![image-20200419211616911](/Users/jamesyao/Library/Application Support/typora-user-images/image-20200419211616911.png)
+![](images/Screen%20Shot%202020-04-19%20at%209.15.35%20PM.png)
 
 The probability for a person in location i to travel to location j is given by
 
